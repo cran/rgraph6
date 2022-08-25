@@ -1,3 +1,13 @@
+# rgraph6 2.0-2
+
+- Re-roxygenize to fix HTML validation errors.
+
+
+# rgraph6 2.0-1
+
+- Fixed C-level errors (#31)
+
+
 # rgraph6 2.0-0
 
 This is a major overhaul of the package.
