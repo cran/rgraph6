@@ -8,7 +8,7 @@ knitr::opts_chunk$set(
   # comment = "#>"
 )
 
-## ---- fig.width=5, fig.height=5-----------------------------------------------
+## ----fig.width=5, fig.height=5------------------------------------------------
 set.seed(123)
 g_directed <- igraph::sample_gnm(12, 12, directed=TRUE)
 g_undirected <- igraph::as.undirected(g_directed)
@@ -65,7 +65,7 @@ d
 d2 <- within(
   d, {
     igraphs <- igraph_from_text(g6)
-    vc <- vapply(igraphs, igraph::vcount, integer(1))
+    vc <- vapply(igraphs, igraph::vcount, numeric(1))
     ec <- vapply(igraphs, igraph::ecount, numeric(1))
     density <- vapply(igraphs, igraph::edge_density, numeric(1))
 })
