@@ -1,6 +1,6 @@
-318a79e5a331bed18ab693bbb3c7f506 *DESCRIPTION
+3e335947a94aacc7fe6749913c815239 *DESCRIPTION
 7546a1de5ef789ad5825ac4610992eac *NAMESPACE
-29c31c29411848e3ecbe08df570f5c79 *NEWS.md
+0745c4d7a78b739b49093123b4bb38c4 *NEWS.md
 482197c681d86402ec6213b08b678e4d *R/RcppExports.R
 36475b947112cfd3434d403cac54616f *R/adjacency_from_text.R
 3b3331d4d5c33ef59c5d9db8cb176d4c *R/as_digraph6.R
@@ -29,9 +29,9 @@ d1314d2e0eec793cf9a7ac7b51fb946d *data/g6.rda
 3e5774605b1d8a9f3104306950211b20 *data/s6.rda
 798baf00a23b3ce7fb00cf4394ee749e *data/sampleg6.rda
 72ac8781ccafc5de7a582c677f87971b *inst/CITATION
-6765fbeb3936f702c3b007b72151704f *inst/doc/rgraph6.R
-6872351d6a26a9e57a97c6321d48997e *inst/doc/rgraph6.Rmd
-40dd26d18cda6ce2f5f805615473ac76 *inst/doc/rgraph6.html
+2d68723b0121e3db9c1b50d77196696c *inst/doc/rgraph6.R
+740e88a16f84ab4ce199cbb46555db80 *inst/doc/rgraph6.Rmd
+00ff715ca623c8450e5a4c4702f9c42d *inst/doc/rgraph6.html
 3e18847f11b41fcfb522cd12352dd800 *inst/exdata/sample-geng-header.g6
 03c90935495685e2f13b0ba48f917156 *inst/exdata/sample-geng-header.s6
 21459b0cf6b1f281b2b18ce372eb388f *inst/exdata/sample-geng-noheader.g6
@@ -67,4 +67,4 @@ bdf86c0ddee1982e2f20474150740abd *tests/testthat/test-i20-border-cases.R
 c60f95c4d59aa1ba4bc0f1a14cfe6d65 *tests/testthat/test-i22-sparse6-bug.R
 faad0101e8e7c9f128c9b8fb5c8f5d5c *tests/testthat/test-random.R
 e34c062bfb34b027f52c37de739256b1 *tests/testthat/test-read_file6.R
-6872351d6a26a9e57a97c6321d48997e *vignettes/rgraph6.Rmd
+740e88a16f84ab4ce199cbb46555db80 *vignettes/rgraph6.Rmd
