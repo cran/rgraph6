@@ -1,11 +1,11 @@
-3e335947a94aacc7fe6749913c815239 *DESCRIPTION
+3955d8162826ba8bd1d13eb4bbc2a0d1 *DESCRIPTION
 7546a1de5ef789ad5825ac4610992eac *NAMESPACE
-0745c4d7a78b739b49093123b4bb38c4 *NEWS.md
+3a52553270fdac199246df56670d9dca *NEWS.md
 482197c681d86402ec6213b08b678e4d *R/RcppExports.R
 36475b947112cfd3434d403cac54616f *R/adjacency_from_text.R
 3b3331d4d5c33ef59c5d9db8cb176d4c *R/as_digraph6.R
 6ead6588be1e5eac59582e8503e95e31 *R/as_graph6.R
-6119a8ccc6a7b7d47f4f29d125ceeb1e *R/as_sparse6.R
+1c4139b8c09fafccf9a5b6c7ec2835b1 *R/as_sparse6.R
 e28d4efbc1c9dab498881306a8ab4c0f *R/choose_format.R
 86853beb4378beb8ab1552f6315d24f7 *R/edgelist_from_text.R
 117812fcafb9cbeb2141f4465d9e0372 *R/fN.R
@@ -21,9 +21,9 @@ a7f2754fc59095ac41dc65dfc258210b *R/read_file6.R
 ab07cfdef813e7b1571ffbd373c72d01 *R/rgraph6-package.R
 607ae017e0a8e24762aad00881f95e39 *R/sampleg6.R
 e8ebb25af5240f3fde58d62effcb2d57 *R/utils.R
-c98edca31872ff03fdaede2743888528 *README.md
-8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
-66a758a18b96ee34e3bfc4bec95f9879 *build/vignette.rds
+48071c0b7cedfcc8df79b20de6ca3cfc *README.md
+b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
+b5c33c975bb4133b5388f0392087909d *build/vignette.rds
 8dc991aa1cc7b9c9b3cff6d81d893276 *data/d6.rda
 d1314d2e0eec793cf9a7ac7b51fb946d *data/g6.rda
 3e5774605b1d8a9f3104306950211b20 *data/s6.rda
@@ -31,7 +31,7 @@ d1314d2e0eec793cf9a7ac7b51fb946d *data/g6.rda
 72ac8781ccafc5de7a582c677f87971b *inst/CITATION
 2d68723b0121e3db9c1b50d77196696c *inst/doc/rgraph6.R
 740e88a16f84ab4ce199cbb46555db80 *inst/doc/rgraph6.Rmd
-00ff715ca623c8450e5a4c4702f9c42d *inst/doc/rgraph6.html
+756729ee48911146d31e48c6d3a11b2c *inst/doc/rgraph6.html
 3e18847f11b41fcfb522cd12352dd800 *inst/exdata/sample-geng-header.g6
 03c90935495685e2f13b0ba48f917156 *inst/exdata/sample-geng-header.s6
 21459b0cf6b1f281b2b18ce372eb388f *inst/exdata/sample-geng-noheader.g6
@@ -42,7 +42,7 @@ b799e211539c8ee7083a8e4a180778db *inst/exdata/sample-geng-noheader.s6
 a6a2258e2411ad6a3d44a8a55c46f01b *man/as_sparse6.Rd
 9c45ab45f5ff1578b02d38e50b51b8ee *man/choose_format.Rd
 284b40a33400b93a729bfa0e0479aaa6 *man/edgelist_from_text.Rd
-171c798f1bfd514f1b266d70a5931e90 *man/figures/README-functions-low-1.png
+1aded457ce49f99afd803abfa5d78886 *man/figures/README-functions-low-1.png
 37a5879b4e7de2d604d377d474c166b6 *man/figures/logo.png
 a12e982f79edd99e22e97cc1b9f02b49 *man/from_digraph6.Rd
 d3e8f96f7772e5eb89459f305f030ea9 *man/from_graph6.Rd
@@ -60,7 +60,7 @@ d77f5d85a2fe08589b30d19578fd281b *tests/testthat.R
 b5605262605914588fd0beffbbe61f22 *tests/testthat/test-adjacency_from_graph6.R
 763def30a54cabab81c0d59f7b4392ce *tests/testthat/test-as_dgraph6.R
 cc0f54df4ed9130f1fa289670c68dfe6 *tests/testthat/test-as_graph6.R
-4ea5bffcc949fdf0bc0306f70d3bf1c6 *tests/testthat/test-as_sparse6.R
+3b56059798bb9b6dec3ce102f0ec0b19 *tests/testthat/test-as_sparse6.R
 d7e15e04713c3ac01d6cb75dbdd84dda *tests/testthat/test-decbins.R
 1ba1448e00a948016efbfbef746f6901 *tests/testthat/test-fN_fR.R
 bdf86c0ddee1982e2f20474150740abd *tests/testthat/test-i20-border-cases.R
